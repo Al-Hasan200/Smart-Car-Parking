@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="appbar">#F1C9FF</color>
+    <color name="bgcolor">#FFC9CD</color>
+    <color name="txtcolor">#7D488F</color>
+    <color name="red">#FF0000</color>
+    <color name="primary">#6A7CFF</color>
+    <color name="background">#252C4B</color>
+
+    <color name="yes">#14DB1C</color>
+    <color name="no">#E31A19</color>
+</resources>
